@@ -1,0 +1,7 @@
+git status:- to see if the files are added or not
+git add:- to add files
+git add . :- to add all chapters
+git commit filename -m " notes " :- to commit and add notes
+touch filename:- to create files
+git log:- to check the commits 
+git checkout filename
